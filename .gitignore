@@ -18,3 +18,4 @@ libtoml.xcodeproj
 build.ninja
 cmake_install.cmake
 rules.ninja
+.vagrant
